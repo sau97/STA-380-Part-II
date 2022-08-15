@@ -10,6 +10,7 @@ editor_options:
     wrap: sentence
 ---
 ## Link to GitHub Repository
+https://github.com/parthiv-borgohain/STA-380-Part-II
 
 This markdown has been prepared as a submission for STA 380: Introduction to 
 Machine Learning by **Parthiv Borgohain (MSBA, pb25347), Ruchi Sharma (MSBA, rs58898), Saurabh Arora (MSBA,sa55445) and Soumith Reddy Palreddy (MSBA, sp52466)**
